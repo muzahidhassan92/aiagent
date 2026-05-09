@@ -1,6 +1,6 @@
 streamlit
 python-dotenv
-langchain
-langchain-core
-langchain-openai
-langchain-community
+langchain==0.2.16
+langchain-core==0.2.41
+langchain-openai==0.1.25
+langchain-community==0.2.17
